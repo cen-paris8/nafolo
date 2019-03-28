@@ -1,5 +1,5 @@
 
-Install Unity with Vuforia
+## Install Unity with Vuforia
 https://docs.unity3d.com/Manual/vuforia_get_started_project_setup.html
 
 Récupérer la dernière version d'Unity 
@@ -26,7 +26,7 @@ Compléter Package Name : com.Tracksgame.ARBuildTest par ex.
 
 
 Branché le smartphone en USB sur le PC
-Activé le mode Développeur dans système/option pour les developpeurs sur le smartphone
+Activé le mode Développeur
 Sur gitBash, activer ADB
 ```
 export JAVA_HOME='"C:\Program Files\Java\jdk1.8.0_191"'
